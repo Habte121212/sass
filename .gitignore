@@ -1,3 +1,6 @@
+# are you ready
+# yes or no 
+
 # Ignore the tangled output of literate TypeScript specs.
 /proposal/*.d.ts
 /accepted/*.d.ts
